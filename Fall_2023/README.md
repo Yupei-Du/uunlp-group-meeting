@@ -23,10 +23,10 @@ so that the audience can already familiarize themselves with the topic.
 
 ### Schedule
 
-| Week | Date | Presenter | Materials |
-| ---- | ----- | --------- | --------- |
-|1 | 2023-09-07 | Research Round | - |
-|2 | 2023-09-14 |  |  |
-|3 | 2023-09-21 |  |  |
-|4 | 2023-09-28 |  |  |
-|5 | 2023-10-05 |  |  |
+| Week | Date | Presenter | Topic | Materials |
+| ---- | ----- | --------- | --------- | --------- |
+|1 | 2023-09-07 | - | Research round | - |
+|2 | 2023-09-14 |  |  |   |
+|3 | 2023-09-21 |  |  |   |
+|4 | 2023-09-28 |  |  |   |
+|5 | 2023-10-05 |  |  |   |
