@@ -25,8 +25,8 @@ so that the audience can already familiarize themselves with the topic.
 
 | Week | Date | Presenter | Topic | Materials |
 | ---- | ----- | --------- | --------- | --------- |
-|1 | 2023-09-07 | - | Research round | - |
-|2 | 2023-09-14 |  |  |   |
+|1 | 2023-09-07 | Fahime Same | Models of Reference Production | Slides |
+|2 | 2023-09-14 |  | Research Round? |   |
 |3 | 2023-09-21 |  |  |   |
 |4 | 2023-09-28 |  |  |   |
 |5 | 2023-10-05 |  |  |   |
