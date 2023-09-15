@@ -25,8 +25,19 @@ so that the audience can already familiarize themselves with the topic.
 
 | Week | Date | Presenter | Topic | Materials |
 | ---- | ----- | --------- | --------- | --------- |
-|1 | 2023-09-07 | Fahime Same | Models of Reference Production | Slides |
-|2 | 2023-09-14 |  | Research Round? |   |
-|3 | 2023-09-21 |  |  |   |
-|4 | 2023-09-28 |  |  |   |
-|5 | 2023-10-05 |  |  |   |
+|1 | 2023-09-07 | Fafa | Models of Reference Production | - |
+|2 | 2023-09-14 | - | Research Round | - |
+|3 | 2023-09-21 | Yupei | Efficient and Robust Fine-Tuning by Transferring Training dynamics | [Slides](https://docs.google.com/presentation/d/1Ao87qimklW6gXC_rKVV_mKOVMyzNMSKftTzn0I3x-HQ/edit?usp=sharing)  |
+|4 | 2023-09-28 | Kees \& <br> Eduardo |  |   |
+|5 | 2023-10-05 | Albert \& <br> Serena|  |   |
+|6 | 2023-10-12 | Massimo \& <br> Yingjin |  |   |
+|7 | 2023-10-19 | Marijn \& <br> Anna |  |   |
+|8 | 2023-10-26 | Gerard \& <br> Hugh Mee |  |   |
+|9 | 2023-11-02 | Guanyi \& <br> Yupei |  |   |
+|10 | 2023-11-09 | Dong \& <br> Eduardo |  |   |
+|11 | 2023-11-16 | Antal \& <br> Yingjin |  |   |
+|12 | 2023-11-23 | Fafa \& <br> Anna |  |   |
+|13 | 2023-11-30 | Hugh Mee \& <br> Serena |  |   |
+|14 | 2023-12-07 |  |  |   |
+|15 | 2023-12-14 | - | Research Round | - |
+
