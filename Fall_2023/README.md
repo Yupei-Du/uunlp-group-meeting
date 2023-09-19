@@ -34,10 +34,10 @@ so that the audience can already familiarize themselves with the topic.
 |7 | 2023-10-19 | Marijn \& <br> Anna |  |   |
 |8 | 2023-10-26 | Gerard \& <br> Hugh Mee |  |   |
 |9 | 2023-11-02 | Guanyi \& <br> Gianluca |  |   |
-|10 | 2023-11-09 | Dong \& <br> Eduardo |  |   |
+|10 | 2023-11-09 | Yupei \& <br> Eduardo |  |   |
 |11 | 2023-11-16 | Antal \& <br> Yingjin |  |   |
 |12 | 2023-11-23 | Fafa \& <br> Anna |  |   |
-|13 | 2023-11-30 | Hugh Mee \& <br> Yupei|  |   |
+|13 | 2023-11-30 | Hugh Mee \& <br> Dong|  |   |
 |14 | 2023-12-07 | Serena |  |   |
 |15 | 2023-12-14 | - | Research Round | - |
 
