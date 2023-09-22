@@ -1,0 +1,1 @@
+"What’s Hallucination?” I’m trying to write a 4-page discussion piece for the journal Computational Linguistics, in which I compare and analyse different ways in which hallucination and omission can be understood. Comments on a draft of the paper will be much appreciated, whether they come before, during or after the meeting.
