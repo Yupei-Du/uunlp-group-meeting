@@ -1,0 +1,2 @@
+My topic will be the development of a novel automatic metric (which doesn't have a name yet...) for evaluating the quality of text generated from logical forms.
+I've been working on this with Guanyi and another collaborator from UNC.
