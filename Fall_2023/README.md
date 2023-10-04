@@ -29,7 +29,7 @@ so that the audience can already familiarize themselves with the topic.
 |2 | 2023-09-14 | - | Research Round | - |
 |3 | 2023-09-21 | Yupei | Efficient and Robust Fine-Tuning by Transferring Training dynamics | [Slides](https://docs.google.com/presentation/d/1Ao87qimklW6gXC_rKVV_mKOVMyzNMSKftTzn0I3x-HQ/edit?usp=sharing)  |
 |4 | 2023-09-28 | Kees \& <br> Eduardo | Kees: What’s Hallucination? \& <br> Eduardo: Automatic Metric For Generation From Logical Forms | Kees: [[abs]](week_4/kees/abstract.md) [[draft]](week_4/kees/draft.pdf) \& <br> Eduardo: [[abs]](week_4/eduardo/abstract.md) [[slides]](week_4/eduardo/slides.pdf) |
-|5 | 2023-10-05 | Albert \& <br> Serena|  |   |
+|5 | 2023-10-05 | Albert \& <br> Serena| Albert: Benchmarking Video-Language Models to understand their grounding capabilities \& <br> Serena: Explainable text classification in the Italian Administrative and Legal Domains |  Serena: [[abs]](week_5/serena/abstract.md) [[slides]](https://docs.google.com/presentation/d/1BlmfkWT5_pExRKidiia9LDITx9JNhHOxfJaCeoMDM0Y/edit?usp=sharing) |
 |6 | 2023-10-12 | Massimo \& <br> Yingjin |  |   |
 |7 | 2023-10-19 | Marijn \& <br> Anna |  |   |
 |8 | 2023-10-26 | Gerard \& <br> Hugh Mee |  |   |

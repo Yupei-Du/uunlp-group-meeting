@@ -1,0 +1,1 @@
+I will also share some details about the model I trained for the Italian administrative language and a paper that I will be presenting to a conference next month. I hope the presentation won’t be too long, but these details are necessary to provide context for my work on explainable text classification.
