@@ -25,7 +25,7 @@ so that the audience can already familiarize themselves with the topic.
 
 | Week | Date | Presenter | Topic | Materials |
 | ---- | ----- | --------- | --------- | --------- |
-|1 | 2023-09-07 | Fafa | Models of Reference Production | - |
+|1 | 2023-09-07 | Fafa | Models of Reference Production | Fafa: [[slides]](week_1/fafa/slides.pdf) |
 |2 | 2023-09-14 | - | Research Round | - |
 |3 | 2023-09-21 | Yupei | Efficient and Robust Fine-Tuning by Transferring Training dynamics | [Slides](https://docs.google.com/presentation/d/1Ao87qimklW6gXC_rKVV_mKOVMyzNMSKftTzn0I3x-HQ/edit?usp=sharing)  |
 |4 | 2023-09-28 | Kees \& <br> Eduardo | Kees: What’s Hallucination? \& <br> Eduardo: Automatic Metric For Generation From Logical Forms | Kees: [[abs]](week_4/kees/abstract.md) [[draft]](week_4/kees/draft.pdf) \& <br> Eduardo: [[abs]](week_4/eduardo/abstract.md) [[slides]](week_4/eduardo/slides.pdf) |
