@@ -32,9 +32,9 @@ so that the audience can already familiarize themselves with the topic.
 |5 | 2023-10-05 | Albert \& <br> Serena| Albert: Benchmarking Video-Language Models to understand their grounding capabilities \& <br> Serena: Explainable text classification in the Italian Administrative and Legal Domains | Albert: [[slides]](week_5/albert/slides.pdf) \& <br> Serena: [[abs]](week_5/serena/abstract.md) [[slides]](https://docs.google.com/presentation/d/1BlmfkWT5_pExRKidiia9LDITx9JNhHOxfJaCeoMDM0Y/edit?usp=sharing)|
 |6 | 2023-10-12 | Raul Vasquez |  |   |
 |7 | 2023-10-19 | Massimo \& <br> Yingjin |  |   |
-|8 | 2023-10-26 | Marijn \& <br> Anna |  |   |
+|8 | 2023-10-26 | Marijn \& <br> Hugh Mee |  |   |
 |9 | 2023-11-02 | Gianluca \& <br> Guanyi |  |   |
-|10 | 2023-11-09 | Hugh Mee \& <br> Gerard |  |   |
+|10 | 2023-11-09 | Anna \& <br> Gerard |  |   |
 |11 | 2023-11-16 | Melody  \& <br> Eduardo |  |   |
 |12 | 2023-11-23 | Yupei \& <br> Yingjin |  |   |
 |13 | 2023-11-30 | Dong \& <br> Anna |  |   |
