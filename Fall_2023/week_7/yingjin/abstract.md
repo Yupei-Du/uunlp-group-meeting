@@ -1,0 +1,1 @@
+My presentation will be to give an overview of the ingredients needed for working on vision-language (VL) learning problems, including VL interaction modelling, cross-modal pretraining models, VL downstream tasks, etc.
