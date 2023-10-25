@@ -1,0 +1,1 @@
+ I will be giving a quick and gentle introduction to the concept of vagueness and how we aim to study it in the first Dealing with Meaning Variation project (funded by AiNed). Since we are still in the early stages of the project, I will give a high-level overview of our current ideas involving vision-language models (with little to no technical details).

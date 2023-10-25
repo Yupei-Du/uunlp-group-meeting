@@ -31,9 +31,9 @@ so that the audience can already familiarize themselves with the topic.
 |4 | 2023-09-28 | Kees \& <br> Eduardo | Kees: What’s Hallucination? \& <br> Eduardo: Automatic Metric For Generation From Logical Forms | Kees: [[abs]](week_4/kees/abstract.md) [[draft]](week_4/kees/draft.pdf) \& <br> Eduardo: [[abs]](week_4/eduardo/abstract.md) [[slides]](week_4/eduardo/slides.pdf) |
 |5 | 2023-10-05 | Albert \& <br> Serena| Albert: Benchmarking Video-Language Models to understand their grounding capabilities \& <br> Serena: Explainable text classification in the Italian Administrative and Legal Domains | Albert: [[slides]](week_5/albert/slides.pdf) \& <br> Serena: [[abs]](week_5/serena/abstract.md) [[slides]](https://docs.google.com/presentation/d/1BlmfkWT5_pExRKidiia9LDITx9JNhHOxfJaCeoMDM0Y/edit?usp=sharing)|
 |6 | 2023-10-12 | Raul Vasquez | SHROOM: a Shared-task on Hallucinations and Related Observable Overgeneration Mistakes | [slides](https://docs.google.com/presentation/d/1dtDKJUwRgDakDVbO0D3WDu0ns3sSPnEGg4VjoEx_fZw/edit?usp=sharing) |
-|7 | 2023-10-19 | Massimo \& <br> Yingjin | Massimo: Anaphora in Dialogue \& <br> Yingjin: Overview of the Ingredients Needed for Working on Vision-Language (VL) Learning Problems | Yingjin: [[slides]](week_7/yingjin/VLpresentation.pdf)  |
-|8 | 2023-10-26 | Marijn \& <br> Hugh Mee |  |   |
-|9 | 2023-11-02 | Gianluca \& <br> Guanyi |  |   |
+|7 | 2023-10-19 | Massimo \& <br> Yingjin | Massimo: Anaphora in Dialogue \& <br> Yingjin: Overview of the Ingredients Needed for Working on Vision-Language (VL) Learning Problems | Massimo: [[slides]](week_7/massimo/slides.pdf) \& <br> Yingjin: [[slides]](week_7/yingjin/VLpresentation.pdf)  |
+|8 | 2023-10-26 | Marijn \& <br> Hugh Mee | Marijn: Classifying if a person knows a word using speech data \& <br> Hugh Mee: introduction to the concept of vagueness and how we aim to study it | Hugh Mee: [[abs]](week_8/hugh_mee/abstract.md)  |
+|9 | 2023-11-02 | Gianluca \& <br> Guanyi | Guanyi: Computational Modelling of Classifier Choice in Mandarin |   |
 |10 | 2023-11-09 | Anna \& <br> Gerard |  |   |
 |11 | 2023-11-16 | Melody  \& <br> Eduardo |  |   |
 |12 | 2023-11-23 | Yupei \& <br> Yingjin |  |   |
