@@ -1,0 +1,63 @@
+% t = top align slides, alternative c = center
+% handout/final = bullet points etc. one by one (final) or all on the slide immediately (handout)
+% aspect ratio 16:9, also possible 1610 for wider screens
+\documentclass[t,handout,aspectratio=169]{beamer}
+\beamertemplatenavigationsymbolsempty
+\usepackage{changepage}  % for adjustwidth
+
+\mode<presentation> {
+	\usetheme{Frankfurt}
+	\usecolortheme{crane}
+	\setbeamertemplate{footline}[frame number]
+	\beamerdefaultoverlayspecification{<+->}
+}
+
+\title{Presentation Title}
+
+\author{Presenter Name}
+\institute[UU]{Utrecht University}
+\date{date}
+\logo{\includegraphics[scale=0.5]{UU-logo2011_CMYK}\hspace*{0.75\textwidth}\vspace{-8mm}}
+\begin{document}
+\begin{frame}
+\maketitle
+\end{frame}
+
+\section{some section} % section titles are displayed above navigation bullets
+\subsection{some subsection} % subsections create a navigation bullet
+% text of sections and subsections is also is displayed in the pdf viewer left pane
+\begin{frame}{frame title here}
+\begin{itemize}
+\item items one by one
+\item in final mode
+\item in handout mode all on one slide
+\end{itemize}
+\includegraphics<+->[width=5cm]{example-image} % overlays work also for images
+\end{frame}
+
+\subsection{next subsection}
+{\setbeamertemplate{logo}{}
+\begin{frame}{frame without logo}
+\begin{enumerate}
+\item enumerate also has items one by one in final mode
+\item for long contents the logo can be switched off
+\item mind the $\lbrace$ and $\rbrace$ around the frame+logo setting
+\item note that the closing $\rbrace$ \textbf{must} be on a new line
+\end{enumerate}
+\end{frame}
+}
+
+\begin{frame}[fragile]{With logo again}
+\begin{itemize}
+\item Note that without \verb+\subsection+ a multi-part bullet is introduced on the top with a dark blue outline for all the bullets in the same subsection
+\item Correct rendering of the top bar requires two \LaTeX\ runs
+\item Verbatim content (also code listings etc.) needs the \texttt{[fragile]} frame option
+\item Shift images/tables etc to the left with \verb+adjustwidth+ if you need more space
+\end{itemize}
+\includegraphics[width=15cm,height=1cm]{example-image}
+\begin{adjustwidth}{-8mm}{0mm}
+\includegraphics[width=15cm,height=1cm]{example-image}
+\end{adjustwidth}
+\end{frame}
+
+\end{document}
