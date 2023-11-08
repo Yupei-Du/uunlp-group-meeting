@@ -34,7 +34,7 @@ so that the audience can already familiarize themselves with the topic.
 |7 | 2023-10-19 | Massimo \& <br> Yingjin | Massimo: Anaphora in Dialogue \& <br> Yingjin: Overview of the Ingredients Needed for Working on Vision-Language (VL) Learning Problems | Massimo: [[slides]](week_7/massimo/slides.pdf) \& <br> Yingjin: [[slides]](week_7/yingjin/VLpresentation.pdf)  |
 |8 | 2023-10-26 | Marijn \& <br> Hugh Mee | Marijn: Classifying if a person knows a word using speech data \& <br> Hugh Mee: introduction to the concept of vagueness and how we aim to study it | Hugh Mee: [[abs]](week_8/hugh_mee/abstract.md) \& <br> Marijn: [[slides]](week_8/marijn/audio_classification_marijn.pdf) |
 |9 | 2023-11-02 | Gianluca | Systems Resilient to Misspellings: Assessment and New Methods |   |
-|10 | 2023-11-09 | Anna \& <br> Gerard |  |   |
+|10 | 2023-11-09 | Anna \& <br> Gerard | What’s Mine becomes Yours: Annotating and In-Context Learning of Paraphrases in News Interview Dialogs |   |
 |11 | 2023-11-16 | Melody  \& <br> Eduardo |  |   |
 |12 | 2023-11-23 | Yupei \& <br> Yingjin |  |   |
 |13 | 2023-11-30 | Dong \& <br> Anna |  |   |
