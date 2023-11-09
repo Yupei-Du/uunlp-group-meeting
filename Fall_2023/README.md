@@ -37,7 +37,7 @@ so that the audience can already familiarize themselves with the topic.
 |10 | 2023-11-09 | Anna \& <br> Gerard | Anna: What’s Mine becomes Yours: Annotating and In-Context Learning of Paraphrases in News Interview Dialogs \& <br> Gerard: Are computability questions still relevant today? | Gerard: [[slides]](week_10/gerard/slides.pdf)  |
 |11 | 2023-11-16 | Melody  \& <br> Eduardo |  |   |
 |12 | 2023-11-23 | Yupei \& <br> Yingjin |  |   |
-|13 | 2023-11-30 | Dong \& <br> Anna |  |   |
+|13 | 2023-11-30 | Goya \& <br> Anna |  |   |
 |14 | 2023-12-07 | Hugh Mee \& <br> Serena |  |   |
 |15 | 2023-12-14 | Guanyi \& <br> Fafa | Guanyi: Computational Modelling of Classifier Choice in Mandarin |   |
 
