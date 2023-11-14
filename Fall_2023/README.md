@@ -35,7 +35,7 @@ so that the audience can already familiarize themselves with the topic.
 |8 | 2023-10-26 | Marijn \& <br> Hugh Mee | Marijn: Classifying if a person knows a word using speech data \& <br> Hugh Mee: introduction to the concept of vagueness and how we aim to study it | Hugh Mee: [[abs]](week_8/hugh_mee/abstract.md) [[slides]](week_8/hugh_mee/slides.pdf) \& <br> Marijn: [[slides]](week_8/marijn/audio_classification_marijn.pdf) |
 |9 | 2023-11-02 | Gianluca | Systems Resilient to Misspellings: Assessment and New Methods | [[slides]](week_9/gianluca/slides.pdf)  |
 |10 | 2023-11-09 | Anna \& <br> Gerard | Anna: What’s Mine becomes Yours: Annotating and In-Context Learning of Paraphrases in News Interview Dialogs \& <br> Gerard: Are computability questions still relevant today? | Anna: [[slides]](https://docs.google.com/presentation/d/1A31DU9JUjF-h6bzLAtJoqqdfEKyhgMGtPM2-PTq1tDc/edit?usp=sharing) Gerard: [[slides]](week_10/gerard/slides.pdf)  |
-|11 | 2023-11-16 | Melody  \& <br> Yupei | Melody: Using word embeddings to analyze audience effects and individual differences \& <br> Yupei: Data Selection for Language Models via Importance Resampling | Yupei: [[slides]](https://docs.google.com/presentation/d/1oasUWn_b8QE-yUkq-zU53Z3D9i52RCtyvXPqhyCWCYc/edit?usp=sharing)  |
+|11 | 2023-11-16 | Melody  \& <br> Yupei | Melody: Flexible social identities: Intra-individual behavioral variation on social media \& <br> Yupei: Data Selection for Language Models via Importance Resampling | Yupei: [[slides]](https://docs.google.com/presentation/d/1oasUWn_b8QE-yUkq-zU53Z3D9i52RCtyvXPqhyCWCYc/edit?usp=sharing)  |
 |12 | 2023-11-23 | Yingjin |  |   |
 |13 | 2023-11-30 | Goya \& <br> Anna |  |   |
 |14 | 2023-12-07 | Hugh Mee \& <br> Serena |  |   |
