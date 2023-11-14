@@ -2,7 +2,7 @@
 
 Time: **11:00-12:15, Thursday**  
 
-Location: **BBG 4.45** (Buys Ballotgebouw, Princetonplein 5, 3584 CC Utrecht)
+Location: **BBG 5.45** (Buys Ballotgebouw, Princetonplein 5, 3584 CC Utrecht)
 
 ### Topics
 
