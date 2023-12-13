@@ -39,5 +39,5 @@ so that the audience can already familiarize themselves with the topic.
 |12 | 2023-11-23 | Yingjin | Prompting and Prefix Tuning for Vision and Language Models | Yingjin: [[slides]](https://drive.google.com/file/d/1eGeFIuydxUlDD53jj1q59jAlru_N3KlM/view?usp=drive_link)  |
 |13 | 2023-11-30 | Goya \& <br> Anna | Goya: Transforming Dutch: Debiasing Dutch Corefence Resolution Systems for Non-Binary Pronouns | Goya: [[slides]](week_12/goya/slides.pdf) , Anna: [slides](https://docs.google.com/presentation/d/1ZgICtTNj3HaWHFjuIa1uX7Rh_mnRFE-_DJWqrM2clvU/edit?usp=sharing) |
 |14 | 2023-12-07 | Hugh Mee \& <br> Guanyi | Guanyi: Computational Modelling of Classifier Choice in Mandarin |   |
-|15 | 2023-12-14 | Serena \& <br> Fafa |  |   |
+|15 | 2023-12-14 | Serena \& <br> Fafa | Fafa: Experimental versus In-Corpus Variation in Referring Expression Choice |   |
 
