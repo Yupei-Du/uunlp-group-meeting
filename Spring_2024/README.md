@@ -28,4 +28,4 @@ so that the audience can already familiarize themselves with the topic.
 | ---- | ----- | --------- | --------- | --------- |
 |1 | 2023-01-18 | - | Meeting Format \& Research Round |  |
 |2 | 2023-01-25 | Yupei Du | TBD |  |
-|1 | 2023-02-01 | Anouck Braggaar | Evaluating Task-oriented Dialogue Systems | [[preprint]](https://arxiv.org/abs/2312.13871) |
+|3 | 2023-02-01 | Anouck Braggaar | Evaluating Task-oriented Dialogue Systems | [[preprint]](https://arxiv.org/abs/2312.13871) |
