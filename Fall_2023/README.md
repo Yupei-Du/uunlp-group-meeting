@@ -38,6 +38,6 @@ so that the audience can already familiarize themselves with the topic.
 |11 | 2023-11-16 | Melody  \& <br> Yupei | Melody: Flexible social identities: Intra-individual behavioral variation on social media \& <br> Yupei: Data Selection for Language Models via Importance Resampling | Melody: [[slides]](week_11/melody/slides.pdf) \& <br> Yupei: [[slides]](https://docs.google.com/presentation/d/1oasUWn_b8QE-yUkq-zU53Z3D9i52RCtyvXPqhyCWCYc/edit?usp=sharing)  |
 |12 | 2023-11-23 | Yingjin | Prompting and Prefix Tuning for Vision and Language Models | Yingjin: [[slides]](https://drive.google.com/file/d/1eGeFIuydxUlDD53jj1q59jAlru_N3KlM/view?usp=drive_link)  |
 |13 | 2023-11-30 | Goya \& <br> Anna | Goya: Transforming Dutch: Debiasing Dutch Corefence Resolution Systems for Non-Binary Pronouns | Goya: [[slides]](week_12/goya/slides.pdf) , Anna: [slides](https://docs.google.com/presentation/d/1ZgICtTNj3HaWHFjuIa1uX7Rh_mnRFE-_DJWqrM2clvU/edit?usp=sharing) |
-|14 | 2023-12-07 | Hugh Mee \& <br> Guanyi | Guanyi: Computational Modelling of Classifier Choice in Mandarin |   |
-|15 | 2023-12-14 | Fafa | Fafa: Experimental versus In-Corpus Variation in Referring Expression Choice |   |
+|14 | 2023-12-07 | Hugh Mee \& <br> Guanyi | Guanyi: Computational Modelling of Classifier Choice in Mandarin | Guanyi: [[slides]](week_14/guanyi/slides.pdf)  |
+|15 | 2023-12-14 | Fafa | Fafa: Experimental versus In-Corpus Variation in Referring Expression Choice | [[slides]](week_15/slides.pdf)  |
 
