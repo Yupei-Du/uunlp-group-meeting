@@ -6,7 +6,7 @@ PRESENT_TIMES = {'frequent': 2, 'non-frequent': 1}
 NAMES = {
     'frequent': ['eduardo', 'danill', 'lukas', 'yingjin', 'hugh mee', 'anna'], 
     # Yupei has presented once
-    'non-frequent': ['yupei', 'fafa', 'kees', 'albert', 'massimo', 'marijn', 'gerard', 'guanyi']
+    'non-frequent': ['yupei', 'fafa', 'kees', 'albert', 'massimo', 'marijn', 'gerard', 'guanyi', 'dong']
     }
 
 
