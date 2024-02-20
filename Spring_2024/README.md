@@ -24,8 +24,8 @@ so that the audience can already familiarize themselves with the topic.
 
 ### Schedule
 
-| Week | Date | Presenter | Topic | Materials |
-| ---- | ----- | --------- | --------- | --------- |
+| Week | Date      | Presenter | Topic     | Materials |
+| ---- | --------- | --------- | --------- | --------- |
 |1  | 2024-01-18 | - | Meeting Format \& Research Round |  |
 |2  | 2024-01-25 | Yupei Du | Tensor Puzzles | [[Blank problem set](https://colab.research.google.com/github/srush/Tensor-Puzzles/blob/main/Tensor%20Puzzlers.ipynb)] \& [[Video walk-through](https://www.youtube.com/watch?v=SiwTAyyvt5s&t=591s)] |
 |3  | 2024-02-01 | Anouck Braggaar | Evaluating Task-oriented Dialogue Systems | [[preprint]](https://arxiv.org/abs/2312.13871) |
