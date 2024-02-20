@@ -33,7 +33,9 @@ so that the audience can already familiarize themselves with the topic.
 |5 | 2023-02-15 | Yingjin Song | TBD |  |
 |6 | 2023-02-22 | Danill Ignatev | TBD |  |
 |7 | 2023-02-29 | Research Day Break | - |  |
-|8 | 2023-03-07 | Juan Manuel Duran | TBD |  |
+|7 | 2023-03-07 | Anna Wegmann | TBD |  |
+|7 | 2023-03-14 | Hugh Mee Wong | TBD |  |
+|8 | 2023-03-21 | Juan Manuel Duran | TBD |  |
 
 
 ### Order of Future Speakers
