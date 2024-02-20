@@ -26,16 +26,16 @@ so that the audience can already familiarize themselves with the topic.
 
 | Week | Date | Presenter | Topic | Materials |
 | ---- | ----- | --------- | --------- | --------- |
-|1  | 2023-01-18 | - | Meeting Format \& Research Round |  |
-|2  | 2023-01-25 | Yupei Du | Tensor Puzzles | [[Blank problem set](https://colab.research.google.com/github/srush/Tensor-Puzzles/blob/main/Tensor%20Puzzlers.ipynb)] \& [[Video walk-through](https://www.youtube.com/watch?v=SiwTAyyvt5s&t=591s)] |
-|3  | 2023-02-01 | Anouck Braggaar | Evaluating Task-oriented Dialogue Systems | [[preprint]](https://arxiv.org/abs/2312.13871) |
-|4  | 2023-02-08 | Ivan Martinez Murillo | Research Round |  |
-|5  | 2023-02-15 | Yingjin Song | TBD |  |
-|6  | 2023-02-22 | Danill Ignatev | TBD |  |
-|7  | 2023-02-29 | Research Day Break | - |  |
-|8  | 2023-03-07 | Anna Wegmann | TBD |  |
-|9  | 2023-03-14 | Hugh Mee Wong | TBD |  |
-|10 | 2023-03-21 | Juan Manuel Duran | TBD |  |
+|1  | 2024-01-18 | - | Meeting Format \& Research Round |  |
+|2  | 2024-01-25 | Yupei Du | Tensor Puzzles | [[Blank problem set](https://colab.research.google.com/github/srush/Tensor-Puzzles/blob/main/Tensor%20Puzzlers.ipynb)] \& [[Video walk-through](https://www.youtube.com/watch?v=SiwTAyyvt5s&t=591s)] |
+|3  | 2024-02-01 | Anouck Braggaar | Evaluating Task-oriented Dialogue Systems | [[preprint]](https://arxiv.org/abs/2312.13871) |
+|4  | 2024-02-08 | Ivan Martinez Murillo | Research Round |  |
+|5  | 2024-02-15 | Yingjin Song | TBD |  |
+|6  | 2024-02-22 | Danill Ignatev | TBD |  |
+|7  | 2024-02-29 | Research Day Break | - |  |
+|8  | 2024-03-07 | Anna Wegmann | TBD |  |
+|9  | 2024-03-14 | Hugh Mee Wong | TBD |  |
+|10 | 2024-03-21 | Juan Manuel Duran | TBD |  |
 
 
 ### Order of Future Speakers
