@@ -36,6 +36,12 @@ so that the audience can already familiarize themselves with the topic.
 |8  | 2024-03-07 | Anna Wegmann | TBD |  |
 |9  | 2024-03-14 | TBD | TBD |  |
 |10 | 2024-03-21 | Juan Manuel Duran | TBD |  |
+|11 | 2024-03-28 | TBD | TBD |  |
+|12 | 2024-04-04 | TBD | TBD |  |
+|13 | 2024-04-11 | TBD | TBD |  |
+|14 | 2024-04-18 | TBD | TBD |  |
+|15 | 2024-04-25 | TBD | TBD |  |
+|16 | 2024-05-02 | Lukas Birkenmaier | TBD |  |
 
 
 ### Order of Future Speakers
