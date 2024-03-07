@@ -34,7 +34,7 @@ so that the audience can already familiarize themselves with the topic.
 |6  | 2024-02-22 | Danill Ignatev | Leveraging Disagreement for Structured Output Prediction in NLP | [[Slides]](week_6/daniil/DIgnatevPresentation.pdf) |
 |7  | 2024-02-29 | Research Day Break | - |  |
 |8  | 2024-03-07 | Anna Wegmann | TBD |  |
-|9  | 2024-03-14 | TBD | TBD |  |
+|9  | 2024-03-14 | Hugh Mee Wong | TBD |  |
 |10 | 2024-03-21 | Juan Manuel Duran | TBD |  |
 |11 | 2024-03-28 | TBD | TBD |  |
 |12 | 2024-04-04 | TBD | TBD |  |
@@ -48,18 +48,16 @@ so that the audience can already familiarize themselves with the topic.
 
 The script for generating this list is in `./order_gen.py`.
 
-- Hugh Mee
-- Massimo
 - Lukas
+- Massimo
 - Eduardo
 - Albert
+- Dong
 - Daniel
 - Anna
-- Dong
 - Gerard
 - Yupei
 - Hugh Mee
-- Lukas
 - Eduardo
 - Danill
 - Marijn
