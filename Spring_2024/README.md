@@ -33,7 +33,7 @@ so that the audience can already familiarize themselves with the topic.
 |5  | 2024-02-15 | Yingjin Song | Hallucinations in Large Vision-Language Models |	[[Slides]](https://drive.google.com/file/d/1GMjWM8Jbof6jHE84Gvm68GjlV1r6d_mp/view?usp=drive_link) |
 |6  | 2024-02-22 | Danill Ignatev | Leveraging Disagreement for Structured Output Prediction in NLP | [[Slides]](week_6/daniil/DIgnatevPresentation.pdf) |
 |7  | 2024-02-29 | Research Day Break | - |  |
-|8  | 2024-03-07 | Anna Wegmann | TBD |  |
+|8  | 2024-03-07 | Anna Wegmann | What's Mine Becomes Yours: Detecting Context-Dependent Paraphrases in News Interview Dialogs | [[Slides]](https://docs.google.com/presentation/d/1jLTEsPmNSuyYKm5AyJ2-NkiiX6l26ZNThQzOu7FZJfI/edit?usp=sharing) |
 |9  | 2024-03-14 | Hugh Mee Wong | TBD |  |
 |10 | 2024-03-21 | Juan Manuel Duran | TBD |  |
 |11 | 2024-03-28 | TBD | TBD |  |
