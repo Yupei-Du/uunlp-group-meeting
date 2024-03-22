@@ -37,8 +37,8 @@ so that the audience can already familiarize themselves with the topic.
 |9  | 2024-03-14 | - | Research Round & Discussion |  |
 |10 | 2024-03-21 | Juan Manuel Duran | TBD |  |
 |11 | 2024-03-28 | Lukas Beiske | TBD |  |
-|12 | 2024-04-04 | TBD | TBD |  |
-|13 | 2024-04-11 | TBD | TBD |  |
+|12 | 2024-04-04 | Filippo Merlo | TBD |  |
+|13 | 2024-04-11 | Dong Nguyen | ERC Proposal |  |
 |14 | 2024-04-18 | TBD | TBD |  |
 |15 | 2024-04-25 | TBD | TBD |  |
 |16 | 2024-05-02 | Lukas Birkenmaier | TBD |  |
@@ -51,7 +51,6 @@ The script for generating this list is in `./order_gen.py`.
 - Massimo
 - Eduardo
 - Albert
-- Dong
 - Daniel
 - Anna
 - Gerard
