@@ -35,8 +35,8 @@ so that the audience can already familiarize themselves with the topic.
 |7  | 2024-02-29 | Research Day Break | - |  |
 |8  | 2024-03-07 | Anna Wegmann | What's Mine Becomes Yours: Detecting Context-Dependent Paraphrases in News Interview Dialogs | [[Slides]](https://docs.google.com/presentation/d/1jLTEsPmNSuyYKm5AyJ2-NkiiX6l26ZNThQzOu7FZJfI/edit?usp=sharing) |
 |9  | 2024-03-14 | - | Research Round & Discussion |  |
-|10 | 2024-03-21 | Juan Manuel Duran | TBD |  |
-|11 | 2024-03-28 | Lukas Beiske | TBD |  |
+|10 | 2024-03-21 | Juan Manuel Duran | Justification, transparency and computational reliabilism | [[Slides]](week_10/slides.pdf) |
+|11 | 2024-03-28 | Lukas Beiske | Annotation Of Anaphoric Information | [[Slides]](week_11/slides.pdf) |
 |12 | 2024-04-04 | Filippo Merlo | TBD |  |
 |13 | 2024-04-11 | Dong Nguyen | ERC Proposal |  |
 |14 | 2024-04-18 | TBD | TBD |  |
