@@ -39,20 +39,27 @@ so that the audience can already familiarize themselves with the topic.
 |11 | 2024-03-28 | Lukas Beiske | Annotation Of Anaphoric Information | [[Slides]](week_11/slides.pdf) |
 |12 | 2024-04-04 | Filippo Merlo | Acquiring Complex Concepts with Comparative Learning | [[Slide]](week_12/slides.pdf) |
 |13 | 2024-04-11 | Dong Nguyen | ERC Proposal |  |
-|14 | 2024-04-18 | TBD | TBD |  |
-|15 | 2024-04-25 | TBD | TBD |  |
+|14 | 2024-04-18 | Hugh Mee Wong | Evaluating VL models on Statements Containing Vague Quantifiers |  |
+|15 | 2024-04-25 | Massimo Poesio | Soft Metrics for Evaluation with Disagreements: An Assessment |  |
 |16 | 2024-05-02 | Lukas Birkenmaier | TBD |  |
+|17 | 2024-05-09 | Ascension Day | - |  |
+|18 | 2024-05-16 | TBD | TBD |  |
+|19 | 2024-05-23 | TBD | TBD |  |
+|20 | 2024-05-30 | TBD | TBD |  |
+|21 | 2024-06-06 | TBD | TBD |  |
+|22 | 2024-06-13 | TBD | TBD |  |
+|23 | 2024-06-20 | TBD | TBD |  |
+|24 | 2024-06-27 | TBD | TBD |  |
+|25 | 2024-07-04 | TBD | TBD |  |
 
 
-### Order of Future Speakers
+### Provisional Order of Future Speakers
 
 The script for generating this list is in `./order_gen.py`.
 
-- Massimo
 - Eduardo
 - Albert
 - Daniel
-- Anna
 - Gerard
 - Yupei
 - Hugh Mee
