@@ -45,7 +45,7 @@ so that the audience can already familiarize themselves with the topic.
 |17 | 2024-05-09 | Ascension Day | - |  |
 |18 | 2024-05-16 | TBD | TBD |  |
 |19 | 2024-05-23 | TBD | TBD |  |
-|20 | 2024-05-30 | TBD | TBD |  |
+|20 | 2024-05-30 | Fabian Ferrari | TBD |  |
 |21 | 2024-06-06 | TBD | TBD |  |
 |22 | 2024-06-13 | TBD | TBD |  |
 |23 | 2024-06-20 | TBD | TBD |  |
