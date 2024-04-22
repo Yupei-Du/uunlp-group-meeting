@@ -40,7 +40,7 @@ so that the audience can already familiarize themselves with the topic.
 |12 | 2024-04-04 | Filippo Merlo | Acquiring Complex Concepts with Comparative Learning | [[Slide]](week_12/slides.pdf) |
 |13 | 2024-04-11 | Dong Nguyen | ERC Proposal |  |
 |14 | 2024-04-18 | Hugh Mee Wong | Evaluating VL models on Statements Containing Vague Quantifiers |  |
-|15 | 2024-04-25 | Massimo Poesio | Soft Metrics for Evaluation with Disagreements: An Assessment |  |
+|15 | 2024-04-25 | TBD | TBD |  |
 |16 | 2024-05-02 | Lukas Birkenmaier | TBD |  |
 |17 | 2024-05-09 | Ascension Day | - |  |
 |18 | 2024-05-16 | TBD | TBD |  |
