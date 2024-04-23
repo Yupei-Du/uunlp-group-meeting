@@ -39,7 +39,7 @@ so that the audience can already familiarize themselves with the topic.
 |11 | 2024-03-28 | Lukas Beiske | Annotation Of Anaphoric Information | [[Slides]](week_11/slides.pdf) |
 |12 | 2024-04-04 | Filippo Merlo | Acquiring Complex Concepts with Comparative Learning | [[Slide]](week_12/slides.pdf) |
 |13 | 2024-04-11 | Dong Nguyen | ERC Proposal |  |
-|14 | 2024-04-18 | Hugh Mee Wong | Evaluating VL models on Statements Containing Vague Quantifiers |  |
+|14 | 2024-04-18 | Hugh Mee Wong | Evaluating VL models on Statements Containing Vague Quantifiers | [[Slides]](week_14/slides.pptx) |
 |15 | 2024-04-25 | TBD | TBD |  |
 |16 | 2024-05-02 | Lukas Birkenmaier | TBD |  |
 |17 | 2024-05-09 | Ascension Day | - |  |
