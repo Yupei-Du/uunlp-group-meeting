@@ -43,7 +43,7 @@ so that the audience can already familiarize themselves with the topic.
 |15 | 2024-04-25 | - | Hot New Ideas in NLP |  |
 |16 | 2024-05-02 | Lukas Birkenmaier | ValiTex -- a unified validation framework for computational text-based measures of social science constructs |  [[Abstract]](week_16/abs.md)|
 |17 | 2024-05-09 | Ascension Day | - |  |
-|18 | 2024-05-16 | TBD | TBD |  |
+|18 | 2024-05-16 | UU-Wide NLP Meetup | - |  |
 |19 | 2024-05-23 | TBD | TBD |  |
 |20 | 2024-05-30 | Fabian Ferrari | TBD |  |
 |21 | 2024-06-06 | TBD | TBD |  |
