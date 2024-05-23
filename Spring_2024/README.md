@@ -45,7 +45,7 @@ so that the audience can already familiarize themselves with the topic.
 |17 | 2024-05-09 | Ascension Day | - |  |
 |18 | 2024-05-16 | UU-Wide NLP Meetup | - |  |
 |19 | 2024-05-23 | Daniel Anadria | Algorithmic Fairness in Clinical Natural Language Processing: Challenges and Opportunities |  |
-|20 | 2024-05-30 | Fabian Ferrari | TBD |  |
+|20 | 2024-05-30 | Fabian Ferrari | How To Follow A Model: Combining Watermarks and Fingerprints in AI Governance |  |
 |21 | 2024-06-06 | Ruizhe Li | Anchored Answers: Unravelling Positional Bias in GPT-2’s Multiple-Choice Questions | [[Paper]](https://arxiv.org/abs/2405.03205) |
 |22 | 2024-06-13 | Yupei Du | TBD |  |
 |23 | 2024-06-20 | TBD | TBD |  |
