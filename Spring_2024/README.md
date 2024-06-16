@@ -47,9 +47,9 @@ so that the audience can already familiarize themselves with the topic.
 |19 | 2024-05-23 | Daniel Anadria | Algorithmic Fairness in Clinical Natural Language Processing: Challenges and Opportunities | [[Slides]](week_19/slides.pdf) |
 |20 | 2024-05-30 | Fabian Ferrari | How To Follow A Model: Combining Watermarks and Fingerprints in AI Governance |  |
 |21 | 2024-06-06 | Ruizhe Li | Anchored Answers: Unravelling Positional Bias in GPT-2’s Multiple-Choice Questions | [[Paper]](https://arxiv.org/abs/2405.03205) |
-|22 | 2024-06-13 | Yupei Du | TBD |  |
-|23 | 2024-06-20 | TBD | TBD |  |
-|24 | 2024-06-27 | TBD | TBD |  |
+|22 | 2024-06-13 | Yupei Du | Data Pruning For Fine-Tuning: What Works and What's Next | [[Slides]](https://docs.google.com/presentation/d/1ibAtlVHhlPjDcOP9X91KmNR06mq0twAkxDKFvNBkzKQ/edit?usp=sharing) |
+|23 | 2024-06-20 | - | Hot New Ideas in NLP (2) |  |
+|24 | 2024-06-27 | Marijn Schraagen | Dutch Clinical Language Model |  |
 |25 | 2024-07-04 | Guanyi Chen | TBD |  |
 
 
@@ -57,14 +57,3 @@ so that the audience can already familiarize themselves with the topic.
 
 The script for generating this list is in `./order_gen.py`.
 
-- Eduardo
-- Albert
-- Daniel
-- Gerard
-- Hugh Mee
-- Eduardo
-- Danill
-- Marijn
-- Yingjin
-- Kees
-- Guanyi
