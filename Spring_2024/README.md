@@ -51,6 +51,7 @@ so that the audience can already familiarize themselves with the topic.
 |23 | 2024-06-20 | - | Hot New Ideas in NLP (2) |  |
 |24 | 2024-06-27 | Marijn Schraagen | Dutch Clinical Language Model |  |
 |25 | 2024-07-04 | Guanyi Chen | On the Human-level Performance of Visual Question Answering |  |
+|26 | 2024-07-11 | Anna Wegmann |  |  |
 
 
 ### Provisional Order of Future Speakers
