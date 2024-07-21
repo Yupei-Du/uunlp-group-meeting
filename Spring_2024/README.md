@@ -52,9 +52,4 @@ so that the audience can already familiarize themselves with the topic.
 |24 | 2024-06-27 | Marijn Schraagen | Dutch Clinical Language Model |  |
 |25 | 2024-07-04 | Guanyi Chen | On the Human-level Performance of Visual Question Answering |  |
 |26 | 2024-07-11 | Anna Wegmann |  Back to the Feature: Tokenization for Language Variation| [Slides](https://docs.google.com/presentation/d/1UDsUBcsdYnZ85j-owW_93q_qd9ZKobrlH84WfSKM8QY/edit?usp=sharing)  |
-
-
-### Provisional Order of Future Speakers
-
-The script for generating this list is in `./order_gen.py`.
-
+|26 | 2024-07-18 | - | Research round | - |
